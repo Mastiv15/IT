@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\holloworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E291E9DA-0814-4899-85FC-3CB9A63F44D5}|holloworld\\holloworld.vcxproj|C:\\C\u002B\u002B\\holloworld\\holloworld\\holloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E291E9DA-0814-4899-85FC-3CB9A63F44D5}|holloworld\\holloworld.vcxproj|solutionrelative:holloworld\\holloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "holloworld.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\holloworld\\holloworld\\holloworld.cpp",
+              "RelativeDocumentMoniker": "holloworld\\holloworld.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\holloworld\\holloworld\\holloworld.cpp",
+              "RelativeToolTip": "holloworld\\holloworld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T13:26:46.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
