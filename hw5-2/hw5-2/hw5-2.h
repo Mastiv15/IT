@@ -5,5 +5,5 @@ namespace shapes
 	enum class shape;
 	int shapeForm();
 	int shapeStr();
-	int printShape(/*int formInt, */int shapeStr);
+	int printShape(int shape);
 }

@@ -1,6 +1,6 @@
 #include <iostream>
 #include "hw5-2.h"
-//изменяем тип фигуры в функции shapeForm
+//изменяем тип фигуры в функции shapeForm для первой части задания
 #define FORMTYPE SQUARE 
 
 namespace shapes
@@ -38,26 +38,30 @@ namespace shapes
 					shapeStr = static_cast <int> (shape::SQUARE);
 
 			if (nameForm == "TRIANG")
-					shapeStr = static_cast <int> (shape::TRIANG);
+				shapeStr = static_cast <int> (shape::TRIANG);
+
+			else
+				std::cout << " \t\tUnknow messege!" << std::endl;
 
 			return shapeStr;
 
 	}
 
-	int printShape(/*int formInt, */int shapeStr)
+	int printShape(int shape)
 	{
 
-		switch (/*formInt |*/ shapeStr)
+		switch (shape)
 		{
 		case (0):
-			std::cout << " you have chosen the form - CIRCLE" << std::endl;
+			std::cout << " you have chosen the form - CIRCLE\n\n" << std::endl;
 			break;
 		case (1):
-			std::cout << " you have chosen the form - SQUARE" << std::endl;
+			std::cout << " you have chosen the form - SQUARE\n\n" << std::endl;
 			break;
 		case (2):
-			std::cout << " you have chosen the form - TRIANG" << std::endl;
+			std::cout << " you have chosen the form - TRIANG\n\n" << std::endl;
 			break;
+
 		}
 
 		return 0;
