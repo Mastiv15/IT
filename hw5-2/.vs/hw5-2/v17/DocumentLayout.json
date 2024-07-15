@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\hw5-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|solutionrelative:hw5-2\\hw5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|solutionrelative:hw5-2\\hw5-2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|C:\\C\u002B\u002B\\hw5-2\\hw5-2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27B261C6-FF50-456D-9D2A-14CCFC2D5DD7}|hw5-2\\hw5-2.vcxproj|solutionrelative:hw5-2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\Source.cpp",
+              "RelativeDocumentMoniker": "hw5-2\\Source.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\Source.cpp",
+              "RelativeToolTip": "hw5-2\\Source.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T14:51:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hw5-2.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.h",
+              "RelativeDocumentMoniker": "hw5-2\\hw5-2.h",
+              "ToolTip": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.h",
+              "RelativeToolTip": "hw5-2\\hw5-2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T15:03:26.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw5-2.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.cpp",
+              "RelativeDocumentMoniker": "hw5-2\\hw5-2.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\hw5-2\\hw5-2\\hw5-2.cpp",
+              "RelativeToolTip": "hw5-2\\hw5-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T14:50:41.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
