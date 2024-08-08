@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\HM6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B135C605-A517-4D67-BB73-E1C1501AB85E}|HM6\\HM6.vcxproj|C:\\C\u002B\u002B\\HM6\\HM6\\HM6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B135C605-A517-4D67-BB73-E1C1501AB85E}|HM6\\HM6.vcxproj|solutionrelative:HM6\\HM6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HM6.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\HM6\\HM6\\HM6.cpp",
+              "RelativeDocumentMoniker": "HM6\\HM6.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\HM6\\HM6\\HM6.cpp",
+              "RelativeToolTip": "HM6\\HM6.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T14:41:08.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
