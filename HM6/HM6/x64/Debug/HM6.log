@@ -1,0 +1,3 @@
+﻿  HM6.cpp
+C:\C++\HM6\HM6\HM6.cpp(17,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HM6.vcxproj -> C:\C++\HM6\x64\Debug\HM6.exe
