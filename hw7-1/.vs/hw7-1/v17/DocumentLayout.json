@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\hw7-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|C:\\C\u002B\u002B\\hw7-1\\hw7-1\\hw7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|solutionrelative:hw7-1\\hw7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|solutionrelative:hw7-1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03F214FE-969D-46B7-BBCD-124092DA1209}|hw7-1\\hw7-1.vcxproj|solutionrelative:hw7-1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Source.cpp",
+              "RelativeDocumentMoniker": "hw7-1\\Source.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Source.cpp",
+              "RelativeToolTip": "hw7-1\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T20:02:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Header.h",
+              "RelativeDocumentMoniker": "hw7-1\\Header.h",
+              "ToolTip": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\Header.h",
+              "RelativeToolTip": "hw7-1\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-11T20:02:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw7-1.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\hw7-1.cpp",
+              "RelativeDocumentMoniker": "hw7-1\\hw7-1.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\hw7-1\\hw7-1\\hw7-1.cpp",
+              "RelativeToolTip": "hw7-1\\hw7-1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T12:09:44.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
