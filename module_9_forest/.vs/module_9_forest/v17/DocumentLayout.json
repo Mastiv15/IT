@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|solutionrelative:module_9_forest\\tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|solutionrelative:module_9_forest\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1934274-0152-4FD3-976D-4B4DFC57A042}|module_9_forest\\module_9_forest.vcxproj|solutionrelative:module_9_forest\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forest.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.cpp",
+              "RelativeDocumentMoniker": "module_9_forest\\Forest.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.cpp",
+              "RelativeToolTip": "module_9_forest\\Forest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T14:28:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forest.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.h",
+              "RelativeDocumentMoniker": "module_9_forest\\Forest.h",
+              "ToolTip": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\Forest.h",
+              "RelativeToolTip": "module_9_forest\\Forest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-21T12:52:46.863Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "module_9_forest\\tree.cpp",
               "ToolTip": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\tree.cpp",
               "RelativeToolTip": "module_9_forest\\tree.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAABAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-17T19:31:08.914Z",
               "EditorCaption": ""
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "module_9_forest\\tree.h",
               "ToolTip": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\tree.h",
               "RelativeToolTip": "module_9_forest\\tree.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-17T19:31:56.223Z",
               "EditorCaption": ""
@@ -58,7 +92,7 @@
               "RelativeDocumentMoniker": "module_9_forest\\module_9_forest.cpp",
               "ToolTip": "C:\\C\u002B\u002B\\module_9_forest\\module_9_forest\\module_9_forest.cpp",
               "RelativeToolTip": "module_9_forest\\module_9_forest.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-17T18:45:26.06Z",
               "EditorCaption": ""

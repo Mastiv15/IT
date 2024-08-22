@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 #include "tree.h"
+#include "Forest.h"
 
 /*enum class Trees
 {
@@ -22,6 +23,11 @@ public:
 		this->m_nameTree = m_nameTree;
 		m_counter++;
 		m_id = m_counter;
+	}
+
+	Tree(const Tree& other)
+	{
+		this->m_nameTree = other.m_nameTree;
 	}
 
 	void setNameTree(Trees m_nameTree)
@@ -72,25 +78,54 @@ private:
 	
 	Trees  m_nameTree;
 	int m_id;
-};
-
-
-int Tree::m_counter = 0;*/
-
+};*/
 
 
 int main()
-{	
-	Tree tree (Trees :: OAK);
-	tree.wind();
-
-	Tree tree2(Trees::MAPLE);
-	tree2.wind();
+{
 	
-	/*Tree tree3(Trees::SPRUCE);
-	tree3.wind();*/
+	{
+		/* в деструкторе проверил, что бы удалялись ссылки на
+			конструктор класса, так и на конструктор копирования*/
 
-	Tree tree4(Trees::BIRCH);
-	tree4.wind();
+		Tree tree(Trees::BIRCH);
+		/*Tree tree("BIRCH");*/
+		Tree copy_tree1(tree);
+		tree.wind(tree);
+		tree.wind(copy_tree1);
+
+		std::cout << std::endl;
+
+		Tree tree2(Trees::OAK);
+		/*Tree tree2("OAK");*/
+		Tree copy_tree2(tree2);
+		tree2.wind(tree2);
+		tree2.wind(copy_tree2);
+
+		std::cout << std::endl;
+
+		
+		Tree tree3(Trees::MAPLE);
+		/*Tree tree3("MAPLE");*/
+		Tree copy_tree3(tree3);
+		tree3.wind(tree3);
+		tree3.wind(copy_tree3);
+
+		std::cout << std::endl;
+
+		Tree tree4(Trees::SPRUCE);
+		/*Tree tree4("SPRUCE");*/
+		Tree copy_tree4(tree4);
+		tree4.wind(tree4);
+		tree4.wind(copy_tree4);
+
+		//окончание действия деструктора
+	}
+	
+	std::cout << "\nNew Forest";
+		
+
+	return 0;
+	
 }
 
