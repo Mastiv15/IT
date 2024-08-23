@@ -3,7 +3,6 @@
 #include <string>
 #include "Forest.h"
 
-//class Forest;
 
 enum class Trees
  {
@@ -14,16 +13,17 @@ enum class Trees
 	SPRUCE
 };
 
-
 class Tree
 {
 public:
 
-	//дружественный метод из класса Forest
-	friend void growUp(const Tree& nameTree);
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ Forest
+	friend void Forest::growUp(const Tree& nameTree);
 
 	static int m_counter;
 
+	Tree()
+	{}
 		Tree(Trees /*std::string*/ m_nameTree);
 	/*{
 		this->m_nameTree = m_nameTree;

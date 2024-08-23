@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "tree.h"
-
+#include "Forest.h"
 
 int Tree::m_counter = 0;
 

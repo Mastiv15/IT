@@ -1,16 +1,16 @@
 #pragma once
 #include <iostream>
-#include "tree.h"
+//#include "tree.h"
 
-//class Tree;
+class Tree;
 
 class Forest
 {
 public:
 
 	Forest();
-		
-	void growUp(const Tree& nameTree);
+
+	void growUp(const Tree &tree);
 
 private:
 };
