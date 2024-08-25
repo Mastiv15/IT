@@ -1,6 +1,5 @@
 #pragma once
 #include <iostream>
-//#include "tree.h"
 
 class Tree;
 
@@ -8,9 +7,17 @@ class Forest
 {
 public:
 
-	Forest();
+	void growUp(const Tree& nameTree);
 
-	void growUp(const Tree &tree);
+	//Forest operator+(const Tree& other);
+	
+	~Forest();
 
+	
+	static int getCounterForestTree();
+	static void increaseCounterForestTree();
+	static void decreaseCounterForestTree();
+	
 private:
+	static int m_counterForestTree;
 };

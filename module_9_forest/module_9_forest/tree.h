@@ -3,7 +3,6 @@
 #include <string>
 #include "Forest.h"
 
-
 enum class Trees
  {
 	UNKNOW = -1,
@@ -17,13 +16,10 @@ class Tree
 {
 public:
 
-	//������������� ����� �� ������ Forest
 	friend void Forest::growUp(const Tree& nameTree);
+	//friend Forest Forest::operator+(const Tree& other);
 
-	static int m_counter;
-
-	Tree()
-	{}
+	
 		Tree(Trees /*std::string*/ m_nameTree);
 	/*{
 		this->m_nameTree = m_nameTree;
@@ -50,8 +46,9 @@ public:
 		
 	}*/
 
-	 int getId() const;
+	int getId() const;
 	/*{
+	*	std::cout << m_id << std::endl;
 		return m_id;
 	}*/
 		
@@ -77,24 +74,23 @@ public:
 		}
 	}*/
 
-	
+	static int getCounterTree();
+	static void increaseCounterTree();
+	static void decreaseCounterTree();
+
 
 	~Tree();
-	/*{
-		std::cout << "I clear the used memory at the end of the program " << std::endl;
-		delete[] m_params;
-	}*/
-
-
+	
 private:
 		
-	Trees /*std::string*/  m_nameTree;
+	Trees m_nameTree;
 	int m_id;
 	int* m_params;
-	
+	static int m_counter;
+		
 };
 
-//int Tree::m_counter = 0;
+
 
 
 
