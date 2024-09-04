@@ -22,16 +22,18 @@ int main()
     truckCar2.print();
     std::cout << std::endl;
 
-    STO <PassengerCars> stoCar1;
-    stoCar1.addCar(passCar1);
+    STO <PassengerCars> stoPassCar;
+    stoPassCar.addCar(passCar1);
+    stoPassCar.addCar(passCar2);
+    std::cout << std::endl;
 
-    STO <PassengerCars> stoCar2;
-    stoCar2.addCar(passCar2);
+    STO <Trucks> stoTrucks;
+    stoTrucks.addCar(truckCar1);
+    stoTrucks.addCar(truckCar2);
+    std::cout << std::endl;
 
-    STO <Trucks> stoCar3;
-    stoCar3.addCar(truckCar1);
-
-    STO <Trucks> stoCar4;
-    stoCar4.addCar(truckCar2);
+    stoPassCar.RepairAll();
+    stoTrucks.RepairAll();
+      
 }
 

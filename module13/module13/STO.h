@@ -25,7 +25,7 @@ public:
 
 	void RepairAll()
 	{
-		_cars;
+		_cars.clear();
 	}
 
 	static int getCounter() {
